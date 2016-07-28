@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">Goldbach</string>
+    <string name="result"></string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_goldbach">Goldbach</string>
+	<string name="calcula">Calcula !</string>
+	<string name="intro">Introduce un numero par > 2</string>
+    
+</resources>
